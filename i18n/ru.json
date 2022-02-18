@@ -1,0 +1,10 @@
+{
+    "cmd_description": "Создать голосование",
+    "params_example": "Напишите ваш вопрос или заполните его в форме.",
+    "use_user_name_label": "Использовать атрибут name вместо username для отображения проголосовавших",
+    "use_user_name_description": "Когда включено, отображает полные имена вместо username",
+    "timezone_label": "Часовой пояс",
+    "timezone_description": "Выбор часового пояса для отображения при звершении голосования",
+    "word_cloud_api_label": "Endpoint Wordcloud API для получения облака тегов",
+    "word_cloud_api_description": "Если оставлено пустым, итог голосования будет отображаться с включеным облаком тегов. Подробнее тут github.com/RonLek/wordcloud-api"
+}
